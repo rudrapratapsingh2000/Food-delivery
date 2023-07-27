@@ -9,7 +9,7 @@
 * Download the source code and import in intellijIDEA.
 *  Go to 16.171.208:8080/
 * Put specific end_points besides the port accordingly to run the project to access and modify the data or *Click on the link which is integrated with swagger and use it 
-http://3.109.21.88:8080/swagger-ui/index.html#/
+http://16.171.208.1:8080/swagger-ui/index.html#/
 
 ## Dependencies
  ### Validation
